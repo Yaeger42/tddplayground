@@ -1,0 +1,7 @@
+__pycache__
+.pytest_cache
+tdd.egg-info
+chromedriver_mac64
+chromedriver_mac64.zip
+.DS_Store
+env
